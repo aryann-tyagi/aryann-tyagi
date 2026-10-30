@@ -4,8 +4,6 @@
 
 <p>
   <a href="https://www.aryantyagi.in"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/aryann-tyagi?tab=followers"><img src="https://img.shields.io/github/followers/aryann-tyagi?label=Follow&style=for-the-badge&logo=github&color=7F3DFF" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aryann-tyagi&style=for-the-badge&color=7F3DFF" alt="Profile views" />
 </p>
 
 </div>
