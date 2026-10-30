@@ -46,6 +46,26 @@ An AI-powered healthcare experience with symptom insights, prescription OCR, an 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [EcoCampus](https://github.com/aryann-tyagi/Ecocampus)
+
+A full-stack campus sustainability platform with a Flutter reporting app, real-time admin dashboard, and Gemini-powered issue intelligence.
+
+**Flutter · Next.js · TypeScript · Supabase · Gemini**
+
+</td>
+<td width="50%" valign="top">
+
+### Building what’s next
+
+I’m always experimenting with products where AI, mobile, and web engineering make everyday work simpler.
+
+**AI · Product · Full stack**
+
+</td>
+</tr>
 </table>
 
 <div align="center">
