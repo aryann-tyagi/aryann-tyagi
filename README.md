@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7F3DFF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Aryan+Tyagi+%F0%9F%91%8B;App+%2B+Web+%2B+AI+Developer;I+build+useful+products+with+intelligence+baked+in." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7F3DFF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;App+%2B+Web+%2B+AI+Developer;I+build+useful+products+with+intelligence+baked+in." alt="Typing SVG" />
 
 <p>
   <a href="https://www.aryantyagi.in"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
