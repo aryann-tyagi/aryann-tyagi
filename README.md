@@ -70,7 +70,7 @@ Have a product idea, an AI workflow to explore, or a collaboration in mind?
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aryann-tyagi/aryann-tyagi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation" />
-<img src="https://raw.githubusercontent.com/aryann-tyagi/aryann-tyagi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/aryann-tyagi/aryann-tyagi/gh-pages/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/aryann-tyagi/aryann-tyagi/gh-pages/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation" />
 
 </div>
