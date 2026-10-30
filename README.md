@@ -10,22 +10,22 @@
 
 </div>
 
-## ⚡ About me
+##  About me
 
 I’m an **app, web, and AI developer** who enjoys turning ambitious ideas into thoughtful, usable products. From mobile computer-vision workflows to AI-powered web experiences, I build at the intersection of clean UX and practical engineering.
 
-- 🧠 Building intelligent, human-centered applications
-- 📱 Exploring mobile development with Flutter
-- 🌐 Shipping interactive web experiences
-- 🤝 Open to collaborating on AI, app, and web projects
+-  Building intelligent, human-centered applications
+-  Exploring mobile development with Flutter
+-  Shipping interactive web experiences
+-  Open to collaborating on AI, app, and web projects
 
-## 🛠️ My toolkit
+##  My toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,threejs,python,git,github,firebase,sqlite&perline=8" alt="Skills" />
 </p>
 
-## 🚀 Featured builds
+##  Featured builds
 
 <table>
 <tr>
@@ -52,7 +52,7 @@ An AI-powered healthcare experience with symptom insights, prescription OCR, an 
 
 <div align="center">
 
-## 📊 GitHub pulse
+##  GitHub pulse
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryann-tyagi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F3DFF&icon_color=7F3DFF&text_color=C9D1D9&rank_icon=github" alt="Aryan's GitHub stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=aryann-tyagi&hide_border=true&background=0D1117&ring=7F3DFF&fire=FF8A3D&currStreakLabel=7F3DFF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="Aryan's contribution streak" />
@@ -63,7 +63,7 @@ An AI-powered healthcare experience with symptom insights, prescription OCR, an 
 
 </div>
 
-## 🤝 Let’s build something memorable
+##  Let’s build something memorable
 
 Have a product idea, an AI workflow to explore, or a collaboration in mind?  
 **[Visit my portfolio →](https://www.aryantyagi.in)**
