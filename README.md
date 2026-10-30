@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF3131&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Aryan+;App+%2B+Web+%2B+AI+Developer;When+the+lion%27s+hungry%2C+He+codes" alt="Typing SVG" />
 
-<p>
-  <a href="https://www.aryantyagi.in"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
 
 </div>
 
@@ -88,12 +85,7 @@ I’m always experimenting with products where AI, mobile, and web engineering m
 
 ## GitHub pulse
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryann-tyagi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F3DFF&icon_color=7F3DFF&text_color=C9D1D9&rank_icon=github" alt="Aryan's GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=aryann-tyagi&hide_border=true&background=0D1117&ring=7F3DFF&fire=FF8A3D&currStreakLabel=7F3DFF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="Aryan's contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryann-tyagi&bg_color=0D1117&color=C9D1D9&line=7F3DFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/aryann-tyagi/aryann-tyagi/main/github-metrics.svg" alt="Aryan's GitHub activity, contribution, repository, and language metrics" width="100%" />
 
 </div>
 
